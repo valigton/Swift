@@ -17,6 +17,7 @@
   [x] Control Flow
   
   [o] Functions
+  
   [o] Closures
   
   [o] Enumerations
