@@ -8,7 +8,7 @@
 
   [x] The Basics
 
-  [o] Basic Operators
+  [x] Basic Operators
 
   [o] Strings and Characters
   
@@ -64,13 +64,13 @@
    - Swift usa "let" para contantes e "var" para variaveis.
    - Swift permite definir o tipo da variavel/constante "var welcomeMessage: String".
   - É possivel também declarar varias variaveis/constantes do mesmo tipo.
-  - Interpolação de strings "\\(welcomeMessage)"
+  - Interpolação de strings em Swift "\\(welcomeMessage)"
   - Swift não é necessario usar ";" ponto e virgula.
   - É possivel definir um valor maximo ou minimo para uma variavel.
   - No Swift é possivel apelidar um tipo de dado ou uma fonte externa.
   - Tuples permitem predefinidamente armazenar mais de um tipo de dado.
   - Swift permite a criação de funções para lidar com erros de execução.
-  - Em Swift existe o metodo "assert()" que é semelhante a uma pre condição "if" mas só é executado durante o desenvolvimento, e pode ser usado livremente sem impactar quando o projeto estiver em produção. 
+  - Em Swift existe o metodo "assert()" que é semelhante ao metodo "precondition()" mas só é executado durante o desenvolvimento, e pode ser usado livremente sem impactar quando o projeto estiver em produção. 
     
 ### The Basics
 	
