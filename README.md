@@ -10,7 +10,7 @@
 
   [x] Basic Operators
 
-  [o] Strings and Characters
+  [x] Strings and Characters
   
   [o] Collection Types
   
@@ -71,7 +71,6 @@
   - Tuples permitem predefinidamente armazenar mais de um tipo de dado.
   - Swift permite a criação de funções para lidar com erros de execução.
   - Em Swift existe o metodo "assert()" que é semelhante ao metodo "precondition()" mas só é executado durante o desenvolvimento, e pode ser usado livremente sem impactar quando o projeto estiver em produção. 
-    
-### The Basics
+  
 	
 	
